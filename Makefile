@@ -1,4 +1,4 @@
-OBJS = Game.cpp play.cpp mTexture.cpp Player.cpp
+OBJS = src/Game.cpp src/play.cpp src/mTexture.cpp src/Player.cpp
 
 CC = g++
 
